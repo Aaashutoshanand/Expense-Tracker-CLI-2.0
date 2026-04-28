@@ -40,7 +40,7 @@ This application helps track daily expenses with categories, search functionalit
 ```
 expense-tracker/
 │
-├── task2.py
+├── task3.py
 ├── expenses.csv
 ├── README.md
 ```
